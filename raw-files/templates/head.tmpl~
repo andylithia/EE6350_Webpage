@@ -1,0 +1,41 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="kinget_course.css">
+</head>
+
+<body>
+<!-- Here is the logo -->
+<div id="logo" style="{text-align:right;}">
+<!-- <a href="http://www.ee.columbia.edu"><img width="800px" border="0" alt="ee_logo" src="images/banner.jpg"></a> ---> 
+<center>
+<a href="http://engineering.columbia.edu"><img border="0" alt="ee_logo" src="images/engineering_logo3.gif"></a> <br>
+<a href="http://www.ee.columbia.edu"><img width="300" border="0" alt="ee_logo" src="images/ee.png"></a> 
+</center>
+<br>
+<center> 
+<h1 style="font-family:verdana, times; margin-top:0;
+margin-bottom:0"><a href="http://www.ee.columbia.edu/~kinget/EE6350_S22/">EE6350 VLSI Design Lab</a></h1>
+
+<h1>Your Project Name</h1>
+
+<a href="mailto:name1@columbia.edu" title="name1@columbia.edu">Student Name1</a><a>&nbsp;&nbsp; </a>
+<a href="mailto:name2@columbia.edu" title="name2@columbia.edu">Student Name2</a>
+</center>
+
+<br>
+</div>
+
+<!-- Here is the navigation bar definition -->
+<!-- <div id="navigation" style="position: relative; top: 0px;
+left:0px;"> -->
+<center> 
+<div id="navigation">|
+<a href="index.html">Introduction</a> |
+<a href="system_overview.html">System Overview</a> | 
+<a href="ic_design.html">IC Design</a> |
+</center> 
+</div>
+
+<!-- Here will start the main page -->
+
+<div id="content">
